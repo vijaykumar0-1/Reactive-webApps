@@ -1,6 +1,6 @@
-package com.learning.reactive.tradition.controller;
+package com.learning.reactive.basic.controller;
 
-import com.learning.reactive.model.Product;
+import com.learning.reactive.basic.model.Product;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.ParameterizedTypeReference;
