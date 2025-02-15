@@ -1,6 +1,6 @@
-package com.learning.reactive.basic.controller;
+package com.learning.reactive.basicApp.controller;
 
-import com.learning.reactive.basic.model.Product;
+import com.learning.reactive.basicApp.model.Product;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.MediaType;
